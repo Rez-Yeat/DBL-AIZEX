@@ -18,3 +18,4 @@ https://www.youtube.com/@Rez_GB
 https://github.com/Rez-Yeat
 https://www.roblox.com/users/2418504111/profile
 For discord my display is Rez and username ugb_main
+Join Discord Server [Godku Project]([https://](https://discord.com/channels/1246530075885568050/1246530077567750204)
