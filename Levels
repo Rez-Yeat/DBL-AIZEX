@@ -4,7 +4,8 @@ ___________________________________
 
 ___________________________________
 
-Level 	EXP (Hero) 	EXP (Extreme) 	EXP (Sparking)
+Level,EXP (Hero),EXP (Extreme),EXP (Sparking)
+
 1 	0 	0 	0
 2 	3 	3 	4
 3 	6 	7 	9
